@@ -1,2 +1,2 @@
 # cs625
-Java Source Code
+Java Source Code for my Class
